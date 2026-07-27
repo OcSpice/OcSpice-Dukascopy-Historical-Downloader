@@ -1,0 +1,1 @@
+# OcSpice-Dukascopy-Historical-Downloader
